@@ -1,0 +1,47 @@
+aid: cred
+name: CRED
+description: >-
+  CRED is an Indian consumer fintech that started with premium credit-card
+  bill payments and rewards and has expanded into peer-to-peer payments
+  (Scan & Pay, Tap to Pay, RuPay credit card on UPI), short-term credit
+  (CRED Cash, CRED Mint), wealth (CRED Money), e-commerce (CRED Store), and
+  travel. CRED's surface area is overwhelmingly consumer-app and the
+  company does not publish a public, self-service developer portal. Its
+  engineering organisation contributes to the broader ecosystem via the
+  engineering.cred.club tech blog and open-source repositories under the
+  CRED-CLUB GitHub org. B2B integrations (merchant acceptance, issuer
+  partnerships, etc.) are negotiated directly with the partnerships team.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: Partner-Only
+position: Consumer
+created: '2026-05-23'
+modified: '2026-05-23'
+tags:
+  - Consumer Fintech
+  - Credit Cards
+  - Bill Payment
+  - Rewards
+  - UPI
+  - Lending
+  - India
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/cred/refs/heads/main/apis.yml
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://cred.club/
+  - type: Engineering Blog
+    url: https://engineering.cred.club/
+  - type: GitHub
+    url: https://github.com/CRED-CLUB
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/cred-club
+  - type: Careers
+    url: https://careers.cred.club/
+  - type: Partnerships
+    url: https://cred.club/partner-with-us
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
