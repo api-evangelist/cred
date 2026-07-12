@@ -30,6 +30,12 @@ url: >-
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/cred-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/cred-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/cred-domain-security.yml
   - type: Website
     url: https://cred.club/
   - type: Engineering Blog
@@ -42,6 +48,8 @@ common:
     url: https://careers.cred.club/
   - type: Partnerships
     url: https://cred.club/partner-with-us
+  - url: https://engineering.cred.club/feed
+    type: Blog
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com

@@ -1,0 +1,13 @@
+generated: '2026-07-11'
+method: searched
+probe: true
+source: https://cred.club/security
+url: https://cred.club/security
+certifications:
+- ISO 27001
+- PCI DSS
+evidence:
+- source: https://cred.club/security
+  keywords:
+  - iso/iec 27001
+  - pci dss
