@@ -12,7 +12,18 @@ description: >-
   CRED-CLUB GitHub org. B2B integrations (merchant acceptance, issuer
   partnerships, etc.) are negotiated directly with the partnerships team.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cred.png
 access: Partner-Only
 position: Consumer
 created: '2026-05-23'
