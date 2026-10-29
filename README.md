@@ -1,4 +1,4 @@
-# cred
+# CRED
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CRED — premium credit-card bill payments + rewards platform
+CRED is an Indian consumer fintech that started with premium credit-card bill payments and rewards and has expanded into peer-to-peer payments (Scan & Pay, Tap to Pay, RuPay credit card on UPI), short-term credit (CRED Cash, CRED Mint), wealth (CRED Money), e-commerce (CRED Store), and travel. CRED's surface area is overwhelmingly consumer-app and the company does not publish a public, self-service developer portal. Its engineering organisation contributes to the broader ecosystem via the engineering.cred.club tech blog and open-source repositories under the CRED-CLUB GitHub org. B2B integrations (merchant acceptance, issuer partnerships, etc.) are negotiated directly with the partnerships team.
+
+**Areas:** Consumer Fintech · Credit Cards · Bill Payments · Rewards · UPI · Lending · India
+
+## CRED on APIs.io
+
+Everything profiled for CRED is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cred/](https://apis.io/providers/cred/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cred Domain Security](https://apis.io/security/cred/cred-domain-security/)
+- [Cred Trust Center](https://apis.io/security/cred/cred-trust-center/)
+- [Cred Vulnerability Disclosure](https://apis.io/security/cred/cred-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cred.club/)
+- [Blog](https://engineering.cred.club/feed)
+
+## API Evangelist rating
+
+**Kin Score 6.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 42.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 15.2** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cred/](https://apis.io/providers/cred/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CRED: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cred/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
